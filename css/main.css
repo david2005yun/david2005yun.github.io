@@ -172,10 +172,10 @@ h1, h2, h3, h4, h5, h6, p {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 20%;
     height: 100%;
     z-index: 8999;
-    background: rgba(136,246,0,0.8);
+    background: rgba(0, 189, 246, 0.8);
     display: table;
     opacity: 1;
     visibility: visible;
@@ -337,7 +337,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-weight: 400;
     margin-top: 18px;
     display: inline-block;
-    color: #F10061;
+    color: #c71b1b;
 }
 
 /*.menu-icon p:before {
