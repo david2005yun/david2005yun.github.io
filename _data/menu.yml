@@ -1,13 +1,12 @@
-# For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: David2005yun Notebook
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: My personal notebook
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+        url: https://github.com/david2005yun/david2005yun.github.io/
+      - title: " Theme created by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'> used by many others</a>"
 
   - title: all posts
     post_list:
@@ -23,7 +22,7 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
+  - title: Download RSS
     url: feed.xml
   
   - title: another list
