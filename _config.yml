@@ -1,9 +1,9 @@
 # Setup
 title:               David2005Yun Notebook
 tagline:             'My personal notebook'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://www.20050223.xyz
-baseurl:             'http://david2005yun.github.io/'
+description:         'Hello!'
+url:                 http://www.20050223.xyz/
+baseurl:             'http://david2005yun.github.io/david2005yun/'
 paginate:            5
 permalink:           pretty
 
