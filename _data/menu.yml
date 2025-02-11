@@ -24,6 +24,12 @@ entries:
 
   - title: Download RSS
     url: feed.xml
+  - title: SEATS Code
+    url: https://uom.seats.cloud/
+  - title: Blackboard
+    url: https://online.manchester.ac.uk/
+  - title: WhatsApp
+    url: https://web.whatsapp.com/
   
   - title: another list
     entries:
