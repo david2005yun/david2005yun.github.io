@@ -11,13 +11,8 @@ entries:
         url: https://hyperos.mi.com/font/zh/
       - title: Creative Commons- 如果您继续使用本网站，即代表您同意：“知识共享协议 CC-BY-4.0”
       - title: This work is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
-          entries:
-            - title: 中文文本
-              url: https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
-            - title: En Text
-              url: /CC-Code/CC-BY-4.0-EN-legalcode.txt
-            - title: EN Code
-              url: https://creativecommons.org/licenses/by/4.0/legalcode.en
+        url: /CC-Code/CC-BY-4.0-EN-legalcode.txt
+  
   - title: all posts
     post_list:
       limit: 5
