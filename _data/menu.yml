@@ -6,12 +6,9 @@ entries:
       - title: My personal notebook
       - title: github repo
         url: https://github.com/david2005yun/david2005yun.github.io/
-      - title: " Theme created by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'> used by many others</a>"
+      - title: " Theme created by riggraz.dev and used by many others"
       - title: This website use: "MiSans Font"
-        url: https://hyperos.mi.com/font/zh/
-      - title: Creative Commons- 如果您继续使用本网站，即代表您同意：“知识共享协议 CC-BY-4.0”
       - title: This work is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
-        url: /CC-Code/CC-BY-4.0-EN-legalcode.txt
   
   - title: all posts
     post_list:
@@ -29,6 +26,7 @@ entries:
 
   - title: Download RSS
     url: feed.xml
+
   - title: SEATS Code
     url: https://uom.seats.cloud/
   - title: Blackboard
@@ -36,13 +34,3 @@ entries:
   - title: WhatsApp
     url: https://web.whatsapp.com/
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
