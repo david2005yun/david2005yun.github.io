@@ -4,7 +4,7 @@ email: https://github.com/david2005yun/david2005yun/issues # email of site's aut
 url: https://20050223.xyz # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  This website records my personal notebooks.
 
 permalink: /:slug.html
 
